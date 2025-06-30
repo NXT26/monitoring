@@ -42,7 +42,7 @@ Health-Check
 ![Grafana Dashboard](images/Health.jpg)
 ---
 ### Телеграмм Alerts bot
-![Grafana Dashboard](images/Health.jpg)
+![Grafana Dashboard](images/Alert.jpg)
 ---
 
 ### Скриншот Telegram-бота
