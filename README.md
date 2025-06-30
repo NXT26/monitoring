@@ -30,8 +30,19 @@
 ## Скриншоты
 
 ### Мониторинг Grafana
-![Grafana Dashboard](images/grafana_dashboard.png)
-
+Latency
+![Grafana Dashboard](images/Latency.jpg)
+Traffic
+![Grafana Dashboard](images/Traffic.jpg)
+Saturation
+![Grafana Dashboard](images/Saturation.jpg)
+Errors
+![Grafana Dashboard](images/Errors.jpg)
+Health-Check
+![Grafana Dashboard](images/Health.jpg)
+---
+### Телеграмм Alerts bot
+![Grafana Dashboard](images/Health.jpg)
 ---
 
 ### Скриншот Telegram-бота
